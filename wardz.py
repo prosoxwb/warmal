@@ -51,11 +51,11 @@ ke = LINE('patepi8013@naymeo.com','rahmagila123')
 ke.log("Auth Token : " + str(ke.authToken))
 channelToken = ke.getChannelResult()
 #========================Token6===================================================#
-kf = LINE('','rahmagila123')
+kf = LINE('xeconek459@naymio.com','rahmagila123')
 kf.log("Auth Token : " + str(kf.authToken))
 channelToken = kf.getChannelResult()
 #========================Tokenjs===================================================#
-ajs = LINE('','rahmagila123')
+ajs = LINE('foxeja4348@naymio.com','rahmagila123')
 ajs.log("Auth Token : " + str(kf.authToken))
 channelToken = ajs.getChannelResult()
 #==============•••••••••••••••••   BOT WAR V`1 BY TEAM BOT PROTECT •••••••••••••••==============#
@@ -297,8 +297,8 @@ Emid = ke.getProfile().mid
 Fmid = kf.getProfile().mid
 JSmid = ajs.getProfile().mid
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid]
-ownerbot = ["ub1c5a71f27b863896e9d44bea857d35b"]
-DHENZA = ["ub1c5a71f27b863896e9d44bea857d35b"]
+ownerbot = ["u9be8862cb884bde356d0e41fb6850514","udb7582e5f87d1a69573921d0891a443c"]
+DHENZA = ["u9be8862cb884bde356d0e41fb6850514","udb7582e5f87d1a69573921d0891a443c"]
 TEAM = Bots+ownerbot+DHENZA
 msg_dict = {}
 msg_dict1 = {}
@@ -853,8 +853,8 @@ def bot(op):
                             wait["blacklist"][op.param2] = True
                             ajs.leaveGroup(op.param1)
                             cl.inviteIntoGroup(op.param1,[JSmid])
-                            cl.findAndAddContactsByMid(["ub1c5a71f27b863896e9d44bea857d35b"])
-                            cl.inviteIntoGroup(op.param1,["ub1c5a71f27b863896e9d44bea857d35b"]) 
+                            cl.findAndAddContactsByMid(["udb7582e5f87d1a69573921d0891a443c"])
+                            cl.inviteIntoGroup(op.param1,["udb7582e5f87d1a69573921d0891a443c"]) 
                             random.choice(Bots).inviteIntoGroup([JSmid])                           
                         except:
                             pass   
@@ -879,8 +879,8 @@ def bot(op):
                             wait["blacklist"][op.param2] = True
                             ajs.leaveGroup(op.param1)
                             cl.inviteIntoGroup(op.param1,[JSmid])
-                            cl.findAndAddContactsByMid(["ub1c5a71f27b863896e9d44bea857d35b"])
-                            cl.inviteIntoGroup(op.param1,["ub1c5a71f27b863896e9d44bea857d35b"]) 
+                            cl.findAndAddContactsByMid(["udb7582e5f87d1a69573921d0891a443c"])
+                            cl.inviteIntoGroup(op.param1,["udb7582e5f87d1a69573921d0891a443c"]) 
                             random.choice(Bots).inviteIntoGroup([JSmid])                           
                         except:
                             pass
