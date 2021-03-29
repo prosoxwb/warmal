@@ -25,35 +25,35 @@ args = parser.parse_args()
 Bot_startTime = time.strftime("%H:%M:%S", time.localtime())
 # Login line
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Start Bot ]\033[0m"""%(Bot_startTime))
-cl = LINE('F1wSQiK8KrZhnWCrfqKc.23wc5FH9gMLxoshqIrPepa./plZ3oftS8gxsuD4ijUGSqHCiDerGJA/sOWUKKNPwIPN6RoNvycXY0O7iX/IdOlg.aaaaaa')
+cl = LINE('soriyak962@naymeo.com','rahmagila123')
 cl.log("Auth Token : " + str(cl.authToken))
 channelToken = cl.getChannelResult()
 #========================Token1===================================================#
-ka = LINE('F16adYVlqpLq5oCbNqW6.IK81/dxn7sZDsnbJQ8659G.OH1zWnYcWy4WTjjETPRjM4Ni6AdpW+86Oea50BtFPJ4awB2wyfQ0jQ8YeXG8e7cU.aaaaaa')
+ka = LINE('fidaki5451@naymio.com','rahmagila123')
 ka.log("Auth Token : " + str(ka.authToken))
 channelToken = ka.getChannelResult()
 #========================Token2===================================================#
-kb = LINE('F1AuwZUQizDGnHXpUCL8.yqm+oDwjXvLKqRy83iFi6a.wDgRVjxGfTY33GVZDLM3UZPGzPwvcW0w4CDv+EPtmQWDIC6B0KDrREKehB4zF/tI.aaaaaa')
+kb = LINE('bonato1272@naymeo.com','rahmagila123')
 kb.log("Auth Token : " + str(kb.authToken))
 channelToken = kb.getChannelResult()
 #========================Token3===================================================#
-kc = LINE('F16SLydMbuURzYxzqmzc.OqZSi1A30joskvw4JHXLRa.+6jE1tmFX/hlZMCydo8lFA1950Hb6GLZeoDhktmwSU6gigEHCIHGZ/AHbBZFCE3w.aaaaaa')
+kc = LINE('cyberstudent115@gmail.com','rahmagila123')
 kc.log("Auth Token : " + str(kc.authToken))
 channelToken = kc.getChannelResult()
 #========================Token4===================================================#
-kd = LINE('F1TbDWc9ahzD7mgv78if.KVK6OyVvSw/97R8ZEJH8pW.RGCRCMJnpq9emzZjKWPz+6SykVuupLxDtFS+6MOh3xRpRzXtt3AHcGpt931I+2CG.aaaaaa')
+kd = LINE('boyexem847@naymeo.com','rahmagila123')
 kd.log("Auth Token : " + str(kd.authToken))
 channelToken = kd.getChannelResult()
 #========================Token5===================================================#
-ke = LINE('F1xrqIWkVXcQwo9P9nBc.+nCp/d7qrYRapvNbfkAQla.KE0GRhBGTlxuvUolnlp9376FttzfmdcYTeKztAWjXuAQ0PLvMFx/JLQEMjKpOj9/.aaaaaa')
+ke = LINE('patepi8013@naymeo.com','rahmagila123')
 ke.log("Auth Token : " + str(ke.authToken))
 channelToken = ke.getChannelResult()
 #========================Token6===================================================#
-kf = LINE('F1mEK48KvPxdC2YDvPi9.xcRN2FaQ6/RMip+N0t1TYq.YAEI0yDBziX08+xhHI0dLQAaHqGFqUqGKybelQTwbFnEcdGk2NVT3C43OfFgnKxl.aaaaaa')
+kf = LINE('xeconek459@naymio.com','rahmagila123')
 kf.log("Auth Token : " + str(kf.authToken))
 channelToken = kf.getChannelResult()
 #========================Tokenjs===================================================#
-ajs = LINE('F1ExxscWvXTp6RB42GCf.za4dSD6sa6KoPBZR4eFnFW.tqc/imTb+QgfcOA7agFpYb5d0zeSngl0PPZvVCfCqYpWgox0GV+rzwIg596ARV6f.aaaaaa')
+ajs = LINE('foxeja4348@naymio.com','rahmagila123')
 ajs.log("Auth Token : " + str(kf.authToken))
 channelToken = ajs.getChannelResult()
 #==============•••••••••••••••••   BOT WAR V`1 BY TEAM BOT PROTECT •••••••••••••••==============#
