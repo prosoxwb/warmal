@@ -41,7 +41,7 @@ kc = LINE('cyberstudent115@gmail.com','rahmagila123')
 kc.log("Auth Token : " + str(kc.authToken))
 channelToken = kc.getChannelResult()
 #========================Token4===================================================#
-kd = LINE('boyexem847@naymeo.com','rahmagila123')
+kd = LINE('yegog20333@dwgtcm.com','rahmagila123')
 kd.log("Auth Token : " + str(kd.authToken))
 channelToken = kd.getChannelResult()
 #========================Token5===================================================#
